@@ -4,7 +4,6 @@ You can use the [editor on GitHub](https://github.com/TeoChiriac/Notion-Recruite
 
 ### Job Widget 
 
-
       <div id="recruitee-careers"></div>
       <script type="text/javascript" src="https://d10zminp1cyta8.cloudfront.net/widget.js"></script>
       <script type="text/javascript">
@@ -33,8 +32,6 @@ You can use the [editor on GitHub](https://github.com/TeoChiriac/Notion-Recruite
  }
  });
       </script>
-      
-
 
 
 
